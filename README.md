@@ -6,7 +6,7 @@
 
 ---
 
-## Skills, Technologies & Tools:computer:
+## Skills, Technologies & Tools :computer:
 
 [![HTML5](https://img.shields.io/badge/≡-HTML5-E34F26?&style=flat-square&logo=html5&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)](https://git-scm.com/)
