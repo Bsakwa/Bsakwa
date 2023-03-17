@@ -17,7 +17,7 @@
 [![CSS3](https://img.shields.io/badge/≡-CSS3-1572B6?logo=css3&style=flat-square&logoColor=1572B6&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/≡-Python-3776AB?logo=Python&style=flat-square&labelColor=282828)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/≡-MySQL-4479A1?logo=mysql&style=flat-square&labelColor=282828)](https://www.mysql.com/)
-[![C](https://img.shields.io/badge/≡-Language-A8B9CC?logo=C&style=flat-square&labelColor=282828)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+[![C](https://img.shields.io/badge/≡-Language-A8B9CC?logo=C&style=flat-square&labelColor=282829)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
 
 
