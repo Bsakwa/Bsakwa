@@ -18,7 +18,7 @@
 [![Python](https://img.shields.io/badge/≡-Python-3776AB?logo=Python&style=flat-square&labelColor=282828)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/≡-MySQL-4479A1?logo=mysql&style=flat-square&labelColor=282828)](https://www.mysql.com/)
 [![C](https://img.shields.io/badge/≡-Language-A8B9CC?logo=C&style=flat-square&labelColor=282829)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
-
+[![MongoDB](https://img.shields.io/badge/≡-MongoDB-47A248?logo=mongodb&style=flat-square&logoColor=white&labelColor=282828)](https://www.mongodb.com/)
 
 
 
