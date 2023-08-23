@@ -6,8 +6,6 @@
 
 ---
 
-![Profile Views](https://profile-counter.glitch.me/Bsakwa/count.svg)
-
 ---
 
 ## Skills, Technologies & Tools :computer:
