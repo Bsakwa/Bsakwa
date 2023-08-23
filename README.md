@@ -2,9 +2,7 @@
 
 
 - 🔭 I’m Sakwa and am training to be a Full Stack Software Engineer under the ALX-Holberton SE Programme..
-- 🌱 I’m currently bulding cool applications whilst learning Python, Javascript, C and SQL.
-
----
+- 🌱 I’m currently bulding cool applications whilst learning Python, Javascript, C and SQL
 
 ---
 
