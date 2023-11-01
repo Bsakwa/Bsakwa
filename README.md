@@ -21,6 +21,8 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=282828)](https://www.mongodb.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=282828)](https://nodejs.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=282828)](https://www.php.net/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
 [![NoSQL](https://img.shields.io/badge/NoSQL-02569B?style=for-the-badge&logo=nosql&labelColor=282828)](https://en.wikipedia.org/wiki/NoSQL)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=282828)](https://www.linux.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&labelColor=282828)](https://reactjs.org/)
