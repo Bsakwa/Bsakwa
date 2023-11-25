@@ -27,7 +27,7 @@ I am a certified Full Stack Software Engineer passionate about building innovati
 
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bsakwa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bsakwa&theme=dark)](https://git.io/streak-stats)
 
 [![Sakwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bsakwa&theme=react-dark)](https://github.com/Bsakwa/github-readme-activity-graph)
 
