@@ -1,4 +1,4 @@
-# Hi there, I'm Sakwa! 👋
+i# Hi there, I'm Sakwa! 👋
 
 I am a certified Full Stack Software Engineer passionate about building innovative applications and exploring new technologies.
 
@@ -28,6 +28,7 @@ I am a certified Full Stack Software Engineer passionate about building innovati
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bsakwa)](https://git.io/streak-stats)
-[![Sakwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bsakwa)](https://github.com/Bsakwa/github-readme-activity-graph)
+
+[![Sakwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bsakwa&theme=dracula)](https://github.com/Bsakwa/github-readme-activity-graph)
 
 [![](https://visitcount.itsvg.in/api?id=Bsakwa&label=Profile%20Views&color=2&pretty=true)](https://visitcount.itsvg.in)
