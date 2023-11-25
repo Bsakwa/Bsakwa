@@ -26,5 +26,7 @@ I am a certified Full Stack Software Engineer passionate about building innovati
 ![GNU_Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&labelColor=282828) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&labelColor=282828) ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&labelColor=282828) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
-# Stats
+## Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bsakwa)](https://git.io/streak-stats)
+
+[![](https://visitcount.itsvg.in/api?id=Bsakwa&label=Profile%20Views&color=7&pretty=false)](https://visitcount.itsvg.in)
