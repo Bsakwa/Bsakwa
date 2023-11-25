@@ -17,10 +17,14 @@ I am a certified Full Stack Software Engineer passionate about building innovati
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=282828) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=282828) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bsakwa)](https://git.io/streak-stats)
+
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=282828) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### DevOps & Tools
 ![GNU_Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&labelColor=282828) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&labelColor=282828) ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&labelColor=282828) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
+# Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bsakwa)](https://git.io/streak-stats)
