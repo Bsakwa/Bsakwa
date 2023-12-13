@@ -1,7 +1,7 @@
 <details>
   <summary><strong>Hi, my name is Sakwa! 👋</strong></summary>
   
-  I am a certified Full Stack Software Engineer passionate about building innovative applications and exploring new technologies.
+  - I am a certified Full Stack Software Engineer passionate about building innovative applications and exploring new technologies.
 </details>
 
 <details>
