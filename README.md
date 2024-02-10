@@ -8,7 +8,7 @@
   <summary><strong>About Me</strong></summary>
   
   - 🔭 Currently, I'm building exciting applications while learning Python, JavaScript, C, and mobile development.
-  - 🌱 I thrive on challenges and enjoy turning complex problems into efficient solutions.
+  - 🌱 I thrive on challenges and enjoy turning complex problems into simple and efficient solutions.
 </details>
 
 <details>
