@@ -7,7 +7,7 @@
 <details>
   <summary><strong>About Me</strong></summary>
   
-  - 🔭 Currently, I'm building exciting applications while learning Python, JavaScript, C, and Go.
+  - 🔭 Currently, I'm building exciting applications while learning Python, JavaScript, C, Flutter and Go.
   - 🌱 I thrive on challenges and enjoy turning complex problems into simple and efficient solutions.
 </details>
 
