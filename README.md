@@ -2,7 +2,9 @@
   <h1>👋 Hi, I'm Sakwa!</h1>
   <p><em>Certified Full Stack Software Engineer passionate about building innovative applications and exploring new technologies</em></p>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning;Code+Craftsman)](https://git.io/typing-svg)
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -23,75 +25,88 @@
   <br>
   
   ### 💻 Programming Languages
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=282828) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=282828) 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=282828) 
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=282829) 
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=282828) 
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&labelColor=282828) 
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  <p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=282828" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=282828" alt="Python" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=282828" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=282829" alt="C" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=282828" alt="PHP" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&labelColor=282828" alt="Java" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  </p>
   
   ### 🌐 Frontend Technologies
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=282828) 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=282828) 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=282828) 
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&labelColor=282828)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=282828" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=282828" alt="CSS3" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=282828" alt="React" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&labelColor=282828" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  </p>
   
   ### ⚙️ Backend Technologies
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=282828) 
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
-  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=282828" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  </p>
   
   ### 🗄️ Databases
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=282828) 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=282828)
+  <p align="center">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=282828" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=282828" alt="MongoDB" />
+  </p>
   
   ### 🔧 DevOps & Tools
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=282828) 
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-  ![GNU_Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&labelColor=282828) 
-  ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&labelColor=282828) 
-  ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&labelColor=282828)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=282828" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&labelColor=282828" alt="GNU Bash" />
+    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&labelColor=282828" alt="Vim" />
+    <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&labelColor=282828" alt="Vagrant" />
+  </p>
 </details>
 
 <details>
-  <summary><strong>📊 GitHub Statistics</strong></summary>
+  <summary><strong>🏆 GitHub Analytics</strong></summary>
   <br>
   
   <div align="center">
     
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Bsakwa&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB)](https://git.io/streak-stats)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bsakwa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsakwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
   
-  [![Sakwa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bsakwa&theme=react-dark&hide_border=true&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF)](https://github.com/Bsakwa/github-readme-activity-graph)
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bsakwa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsakwa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=FFFFFF" alt="Top Languages" />
-  </div>
-  
-  [![Profile Views](https://visitcount.itsvg.in/api?id=Bsakwa&label=Profile%20Views&color=2&pretty=true)](https://visitcount.itsvg.in)
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bsakwa&theme=react-dark&hide_border=true&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&area_color=61DAFB" alt="Contribution Graph" />
   
   </div>
 </details>
 
 <details>
-  <summary><strong>🎯 What I'm Working On</strong></summary>
+  <summary><strong>💼 Professional Journey</strong></summary>
   <br>
   
-  - 🔨 Building scalable web applications with modern frameworks
-  - 📱 Developing cross-platform mobile applications
-  - 🧠 Exploring AI/ML integration in web development
-  - 🌐 Contributing to open source projects
-  - 📚 Continuously learning and staying updated with tech trends
+  ```
+  🎯 Current Focus
+  ├─ Building scalable web applications with modern frameworks
+  ├─ Developing cross-platform mobile applications
+  ├─ Exploring AI/ML integration in web development
+  ├─ Contributing to open source projects
+  └─ Continuous learning and staying updated with tech trends
+  
+  🚀 Philosophy
+  ├─ Clean, maintainable code
+  ├─ User-centric design
+  ├─ Performance optimization
+  └─ Collaborative development
+  ```
 </details>
 
 <details>
@@ -108,7 +123,13 @@
 ---
 
 <div align="center">
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   
-  ⭐ **Thanks for visiting my profile!** ⭐
+  ### 🌟 *"The best way to predict the future is to create it"*
+  
+  <img src="https://komarev.com/ghpvc/?username=Bsakwa&color=61DAFB&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+  **✨ Thanks for stopping by! Let's build something amazing together ✨**
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  
 </div>
