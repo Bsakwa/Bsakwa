@@ -3,8 +3,8 @@
   <p><em>Certified Full Stack Software Engineer passionate about building innovative applications and exploring new technologies</em></p>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning;Code+Craftsman)](https://git.io/typing-svg)
-  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 </div>
 
 ---
@@ -130,6 +130,6 @@
   
   **✨ Thanks for stopping by! Let's build something amazing together ✨**
   
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+ 
   
 </div>
