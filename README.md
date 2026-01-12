@@ -13,7 +13,7 @@
   <summary><strong>🚀 About Me</strong></summary>
   <br>
   
-  - 🔭 Currently building exciting applications while mastering **Python**, **JavaScript**, **C**, **Flutter**, and **TypeScript**
+  - 🔭 Currently building exciting applications while mastering **PhP**, **Python**, **JavaScript**, **C**, **Flutter**, and **TypeScript**
   - 🌱 I thrive on challenges and enjoy transforming complex problems into elegant, efficient solutions
   - 💡 Passionate about clean code, best practices, and continuous learning
   - 🎯 Always exploring cutting-edge technologies and industry trends
